@@ -14,7 +14,7 @@ Laravel Quick CMS is a content management system built on the Laravel PHP framew
 
 ## Download Link: 
 
-https://1drv.ms/u/c/745632abff503beb/EVPZf-3z8cxJgsswVxKSkJYBjn35cgtmAQEjoNzGObQL_w?e=2HrQ2d
+https://1drv.ms/u/c/745632abff503beb/EVPZf-3z8cxJgsswVxKSkJYBjn35cgtmAQEjoNzGObQL_w?e=z6SW9B
 
 ## Frond End:
 https://xxxx.com/
