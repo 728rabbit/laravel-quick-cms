@@ -13,8 +13,7 @@ Laravel Quick CMS is a content management system built on the Laravel PHP framew
 -   **SEO Tools**: Built-in SEO optimization features
 
 ## Download Link: 
-
-https://1drv.ms/u/c/745632abff503beb/IQCtiL5hC8uHT5QJddiRoLFXAdhJOWzyU95uonpNWE7zoAQ?e=gZpPM6
+https://1drv.ms/u/c/745632abff503beb/IQDhbngf8bq7TpsC_8IlzZN1Aci0875ooqgOiMXS1lQtcpY?e=QyRVAc
 
 ## Frond End:
 https://xxxx.com/
