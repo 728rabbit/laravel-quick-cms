@@ -1,3 +1,5 @@
+![Description](structure.png)
+
 **Description:**  
 A battle-tested Laravel development kit for rapid project setup. Build websites and web apps faster with dynamic routing, reusable components, and built-in CMS features.
 
