@@ -1,16 +1,22 @@
-# laravel-quick-cms
+A Laravel-based development kit for rapid website and application development. Provides a flexible core with CMS capabilities, dynamic routing, and reusable tools for building and deploying projects quickly.
 
-Laravel-based CMS Kernel is a content management system built on the Laravel PHP framework that allows for rapid development and deployment of websites with content management capabilities.
+## Key Features:
 
-## Key Features
+-  User Management: Admin panel to manage users, roles, and permissions.
 
--   **User Management**: Admin panel for managing users and permissions
-    
--   **Content Management**: Create, edit, and organize pages/posts
-    
--   **Media Library**: Upload and manage images/files
+-  Content Management: Create, edit, and organize pages/posts easily.
 
--   **SEO Tools**: Built-in SEO optimization features
+-  Media Library: Upload, manage, and organize images/files.
+
+-  SEO Tools: Built-in SEO optimization features.
+
+-  Dynamic Routing: Automatic route handling for faster project setup.
+
+-  Reusable Core: A battle-tested framework used in multiple live projects.
+
+-  Session & Cookie Utilities: Simplified methods for session and cookie management.
+
+-  Email Integration: Configurable SMTP and SendGrid support.
 
 
 ![Description](cms-preview.png)
